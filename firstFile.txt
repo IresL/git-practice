@@ -1,7 +1,7 @@
-1
-2
-3
-4
+Modified line 1 in git_1
+Modified line 2 in git_1
+Modified line 3 in git_1
+Modified line 4 in git_1
 5
 6
 7
