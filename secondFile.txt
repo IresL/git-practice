@@ -1,8 +1,9 @@
 1 change change2
-2 change change2
+Modified in git_2 - line 2
+Modified in git_1 - line 2
 3
-4
-5
+Modified in git_2 - line 4
+Modified in git_1 - line 4
 6
 7
 8
